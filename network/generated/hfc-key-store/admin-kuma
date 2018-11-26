@@ -1,0 +1,14 @@
+{
+  "name": "admin-kuma",
+  "mspid": "OrgKunstmaanBeMSP",
+  "roles": null,
+  "affiliation": "",
+  "enrollmentSecret": "",
+  "enrollment": {
+    "signingIdentity": "65a6fbcbe5aa86c4ddefd6e698f3c8206426fa0f81e9bc65f09f810a259f3726",
+    "identity": {
+      "certificate": "-----BEGIN CERTIFICATE-----\nMIICETCCAbigAwIBAgIJAJKGCZLGQdDZMAoGCCqGSM49BAMCMEoxCzAJBgNVBAYT\nAmJlMRIwEAYDVQQKDAlrdW5zdG1hYW4xDDAKBgNVBAsMA29yZzEZMBcGA1UEAwwQ\nb3JnLmt1bnN0bWFhbi5iZTAeFw0xODAyMjgxMDEyNTNaFw0yODAyMjYxMDEyNTNa\nMFUxCzAJBgNVBAYTAmJlMRIwEAYDVQQKDAlrdW5zdG1hYW4xDDAKBgNVBAsMA29y\nZzEkMCIGA1UEAwwbYWRtaW4ta3VtYS5vcmcua3Vuc3RtYWFuLmJlMFkwEwYHKoZI\nzj0CAQYIKoZIzj0DAQcDQgAETqJnnekobDJjs7KzP87aPTQQcopxU5MYq3jcvB2M\nMIcIeWa0hFSwrWW4kOoNJif/H5x16CAGT+5sm/+ZmSIVl6N8MHowGgYIKgMEBQYH\nCAEEDgwMeyJhdHRycyI6e319MB8GA1UdIwQYMBaAFPJPLSwRJBARr46L9ur0flgb\noLjiMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFD5qEQoQVYu6ifklmGFkCC67udl/\nMA4GA1UdDwEB/wQEAwIHgDAKBggqhkjOPQQDAgNHADBEAiAbJXOk8T+5LS7XI90C\nur67pyvSaiAjnZetehQYJOlmdAIgengiyfcdkZKY8Jrb42Jlb5nepj0fmR/eBj9O\nL6ND6wQ=\n-----END CERTIFICATE-----\n"
+    }
+  }
+}
+

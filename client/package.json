@@ -1,0 +1,26 @@
+{
+  "name": "kuma-token-client",
+  "version": "1.0.0",
+  "description": "A CLI application to communicate with the kuma-token chaincode.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "jest services/ --runInBand"
+  },
+  "author": "Kunstmaan",
+  "license": "MIT",
+  "dependencies": {
+    "@kunstmaan/hyperledger-fabric-client-utils": "^0.4.1",
+    "@kunstmaan/hyperledger-fabric-node-chaincode-utils": "^0.4.0",
+    "command-exists": "^1.2.2",
+    "fabric-shim": "^1.2.0",
+    "fs-extra": "^5.0.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jest": "^21.3.2",
+    "jest": "^22.3.0"
+  }
+}
